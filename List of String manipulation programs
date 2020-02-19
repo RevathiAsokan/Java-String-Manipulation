@@ -1,0 +1,14 @@
+// String manipulation programs
+
+1. To return char at given location of a string (Hint: str.charAt(index))
+2. Get the unicode point of character at the given index within the String (Hint: str.codePointAt(index))
+3. Get the character (unicode code point) before the specified index within the string (Hint: str.codePointBefore(index))
+4. Get the count of unicode code points in a given range within the string (Hint: str.codePointCount(start, end))
+5. Compare two strings lexicographically (Hint: str1.compareTo(str2))
+6. Compare two strings lexicographically ignoring case (Hint: str1.compareToIgnoreCase(str2))
+7. Concatenate string (Hint: str1.concat(str2)
+8. Check if a given string contains the specified sequence of char values (Hint: str1.contains(str2))
+9. To compare a given string to the specified character sequence (Hint: character sequence declaration - CharSequence, str1.contentEquals(str2))
+10. To Compare a given string to the specified string buffer (Hint: String buffer declaration - StringBuffer str = new StringBuffer(newstr), str1.contentEquals(str2))
+11. To create a new string object with the contents of a character array (Hint: Character array declaration - char[] ch = {'a','b','c'} or char[] ch = new char[] {'a','b','c'}, newstr = String(ch) or newstr = copyValueOf(ch,start,end+1))
+12. 
